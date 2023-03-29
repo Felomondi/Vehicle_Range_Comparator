@@ -1,7 +1,7 @@
 # Vehicle_Range_Comparator
 This is a software that is capable of comparing the range of both electric vehicles ( denoted by EV) and internal combustion engine vehicles ( denoted by ICE).
 
-The application takes the details of a pair of veicles, one at a time, comapres their range and prints out which has the largest range, and by what margin.
+The application takes the details of a pair of veicles, one at a time, compares their range and prints out which has the largest range, and by what margin.
 
 Imput format : type (ice/ev) year name (one word) capacity (fuel tank or battery) consumption (mpg or Whpm).
 

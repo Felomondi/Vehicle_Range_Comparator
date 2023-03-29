@@ -1,6 +1,5 @@
 
 /**
- *
  * @author (Felix)
  */
 public abstract class AVehicle implements IVehicle {
